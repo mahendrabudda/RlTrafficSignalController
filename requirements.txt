@@ -1,0 +1,5 @@
+torch>=2.0.0        ✅ agent_dqn, train, evaluate, simulation
+numpy>=1.24.0       ✅ all files
+pygame>=2.5.0       ✅ simulation, visualize
+matplotlib>=3.7.0   ✅ train, utils
+tqdm>=4.65.0        ✅ train, evaluate
